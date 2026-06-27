@@ -109,10 +109,3 @@ A year-over-year comparison (2024 vs. 2025) exposed a major geo-operational anom
 - Audit regional **third-party logistics (3PL) partners** and service level agreements (SLAs) with a clear target: restore the South region return rate to the **~5% company baseline**
 
 ---
-
-└── README.md                     # This document
-```
-
----
-
-*Analysis period: January 2024 – December 2025 | Transactions analyzed: 4,410*
