@@ -1,5 +1,7 @@
 📊 Sales Performance & Revenue Optimization Analysis
+
 📌 Executive Summary
+
 This repository contains a comprehensive, multi-dimensional analysis of two years (Jan 2024 – Dec 2025) of order-level sales transactions for a multi-category retail business. Operating across 5 regions and 3 sales channels, the dataset spans 4,410 transactions and captures vital operational dynamics.
 
 The primary objective of this project was to look past top-line revenue growth to identify systemic operational inefficiencies, structural margin risks, and customer vulnerabilities.
