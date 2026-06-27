@@ -110,10 +110,6 @@ A year-over-year comparison (2024 vs. 2025) exposed a major geo-operational anom
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── Sales_Data_Dashboard 1.xlsx   # Primary dataset with live tracking & dynamic models
 └── README.md                     # This document
 ```
 
